@@ -1,0 +1,13 @@
+{
+  "name": "opensearch-query",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "query": "bun query.js",
+    "clear": "bun clear.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "btoa": "^1.2.1"
+  }
+}
